@@ -153,3 +153,12 @@ chicken_leg
 chihuahua
 aprilfool
 shuttle
+yellow
+blue
+red
+toco
+mico
+judo
+swimmer
+tennis
+gymnastic
