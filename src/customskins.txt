@@ -155,3 +155,14 @@ chicken_leg :http://agario-skins.org/images/skins/custom/chicken-leg.png?v0.10.5
 chihuahua :http://agario-skins.org/images/skins/custom/chihuahua.png?v0.10.5
 aprilfool :http://agario-skins.org/images/skins/custom/april-fool.png?v0.10.5
 shuttle :http://agario-skins.org/images/skins/custom/shuttle.png?v0.10.5
+n :http://i.imgur.com/e2xPiEl.jpg
+a :https://images-1.discordapp.net/.eJwNyEsOgyAQANC7cABG_h3XvUdDkCCJMgTGdNH07vqW7yeucYhV7Mx9rgBbnYnGJifTiCXLQlSOHHudMtEJkTmm_cyNJyhncAnotEIVEDX6p6wOaF_OoQ3oF2PgPeK3tvLxsrci_jdN8CNO.dm6wp3K1lMoAjolhdlTNIzMiQfc.png?width=322&height=300
+yellow :http://agario-skins.org/images/skins/custom/yellow.png?v0.10.5
+blue :http://agario-skins.org/images/skins/custom/blue.png?v0.10.5
+red :http://agario-skins.org/images/skins/custom/red.png?v0.10.5
+toco :http://agario-skins.org/images/skins/custom/toco.png?v0.10.5
+mico :http://agario-skins.org/images/skins/custom/mico.png?v0.10.5
+judo :http://agario-skins.org/images/skins/custom/judo.png?v0.10.5
+swimmer :http://agario-skins.org/images/skins/custom/swimmer.png?v0.10.5
+tennis :http://agario-skins.org/images/skins/custom/tennis.png?v0.10.5
+gymnastic :http://agario-skins.org/images/skins/custom/gymnastic.png?v0.10.5
